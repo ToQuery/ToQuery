@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toquery&layout=compact)](https://github.com/toquery)
+
+[![ToQuery's github stats](https://github-readme-stats.vercel.app/api?username=toquery)](https://github.com/toquery)
+
 <!--
 **ToQuery/ToQuery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
